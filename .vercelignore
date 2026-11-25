@@ -1,0 +1,6 @@
+.git/
+docs/
+output/
+tmp/
+AGENTS.md
+assets/*.png
